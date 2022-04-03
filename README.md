@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaffer
-- 👀 I’m interested in coding for geophisics data processing and geodynamic modeling
-- 🌱 I’m currently learning Fortran and I'm doing a master degree in Earth Sciences
+- 👀 I’m interested in geology, physics, GIS and coding for geophisics data processing and geodynamic modeling
+- 🌱 I’m currently learning Fortran and ArcGIS and I'm doing a master degree in Earth Sciences
 - 💞️ I’m looking to collaborate on other geoscientists, developers, data scientists, Unix users and generally anyone I can learn something from. 
 
 <!---
